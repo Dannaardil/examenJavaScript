@@ -13,4 +13,4 @@ import{
 // import{
 
 // }from "module/pantalon.js"
-console.log(getAllAbrigos)
+await getAllAbrigos()
