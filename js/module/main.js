@@ -1,6 +1,6 @@
 import{
     getAllAbrigos
-} from "/abrigo.js"
+} from "js/module/abrigo.js"
 
 // import{
 
